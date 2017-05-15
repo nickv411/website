@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "nick"
-AuthUserFile C:/Users/vince/Desktop/wamp64/.htpasswd
-require valid-user
